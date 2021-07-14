@@ -1,0 +1,10 @@
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\bin\Debug\CrazyDrive.exe.config
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\bin\Debug\CrazyDrive.exe
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\bin\Debug\CrazyDrive.pdb
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.csprojAssemblyReference.cache
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.Form1.resources
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.Properties.Resources.resources
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.csproj.GenerateResource.cache
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.csproj.CoreCompileInputs.cache
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.exe
+C:\Users\zenit\source\repos\CrazyDrive\CrazyDrive\obj\Debug\CrazyDrive.pdb
